@@ -5,7 +5,7 @@ Reaktor Sample Map Generator, based on http://relivethefuture.com/choronzon/soft
 
 Written in C#, Compatible with mono/.NET
 
-Allows a theoretical maximum of up to 16384 per sample map.
+Allows a theoretical maximum of up to 16384 samples per sample map.
 
 Can read/write (non embedded) reaktor sample maps, aswell as convert to/from JSON. 
 
